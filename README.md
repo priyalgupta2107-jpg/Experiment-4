@@ -2,20 +2,18 @@ Aim : Study of Sets in Python
 Algorithm:
 Algorithm 1: Create a Set and Display Elements
 
-Step 1: Start
-Step 2: Accept elements from the user
-Step 3: Create a set using the given elements
-Step 4: Automatically remove duplicate elements
-Step 5: Display the created set
-Step 6: Stop
+Start
+1.Create a list with participant names (including duplicates)
+2.Convert the list into a set to remove duplicates
+3.Display the unique participants.
+4.Stop
 
 Algorithm 2: Add Elements to a Set
-Step 1: Start
-Step 2: Create a set with initial elements
-Step 3: Accept element(s) to be added
-Step 4: Add element(s) using add() or update()
-Step 5: Display the updated set
-Step 6: Stop
+1.Start
+2.Create three sets for subjects chosen by Student1, Student2, and Student3
+3.Apply the intersection operator (&) on all three sets
+4.Store the common subjects in a variable
+5.Display the common subjects and Stop.
 
 Algorithm 3: Remove Elements from a Set
 Step 1: Start
