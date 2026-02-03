@@ -32,8 +32,8 @@
 
 ## Theory:
 A set in Python is an unordered collection of unique elements used to store distinct values. Sets are created using curly braces {} or the set() constructor
-and automatically remove duplicate elements. 
-Some important commands commonly used in set:
+and automatically remove duplicate elements.  
+Some important commands commonly used in set:  
 add() – Adds a single element.  
 update() – Adds multiple elements.  
 remove() – Removes an element.   
